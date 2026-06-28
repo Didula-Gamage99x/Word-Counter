@@ -6,8 +6,8 @@ A simple and responsive **Word Counter web application** built using HTML, CSS, 
 
 ## ✨ Features
 
-* Real-time word counting
-* Real-time character counting
+* Real time word counting
+* Real time character counting
 * Simple and clean user interface
 * Lightweight and fast
 * Fully responsive design
@@ -28,7 +28,7 @@ A simple and responsive **Word Counter web application** built using HTML, CSS, 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/word-counter.git
+git clone https://github.com/Didula-Gamage99x/word-counter.git
 ```
 
 2. Open the project folder
